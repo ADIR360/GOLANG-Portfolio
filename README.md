@@ -21,9 +21,9 @@ The current implementation allows for establishing a connection via SSH, but ple
 - Highlights my skills in building other cybersecurity applications and tools.  
 ![Image 3](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/3.png)
 - Provides information about myself.  
-![Image 4](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/4.png)
+![Image 5](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/4.png)
 - Finally, a Contact Me page.  
-![Image 5](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/5.png)
+![Image 4](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/5.png)
 
 
 ### SSH server
