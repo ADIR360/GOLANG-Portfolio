@@ -13,17 +13,17 @@ The current implementation allows for establishing a connection via SSH, but ple
 
 ### GoLang Portfolio
 
-- Note : This is a very basic structure of code , more FEATURES will be added by me soon 
-- This repository showcases my GoLang portfolio.
+- **Note:** This is a very basic structure of code; more **features** will be added by me soon. 
+- This repository showcases my GoLang portfolio.  
 ![Image 1](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/1.png)
-- It include a About me page.
+- It includes an About Me page.  
 ![Image 2](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/2.png)
-- Highlights my skills in building other cybersercurity applications and tools.
+- Highlights my skills in building other cybersecurity applications and tools.  
 ![Image 3](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/3.png)
-- Tells about myself 
-![Image 5](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/4.png)
-- At last a Contact me page 
-![Image 4](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/5.png)
+- Provides information about myself.  
+![Image 4](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/4.png)
+- Finally, a Contact Me page.  
+![Image 5](https://github.com/ADIR360/GoLANG-Portfolio/blob/main/Images/5.png)
 
 
 ### SSH server
