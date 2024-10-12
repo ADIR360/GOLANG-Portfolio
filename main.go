@@ -37,7 +37,7 @@ func main() {
         case "Projects":
             details.SetText("[yellow]Projects:\n\n[white]1. Vulnerability Tracker\n2. Network Analysis Tool\n3. Ping Pong Game")
         case "Contact":
-            details.SetText("[yellow]Contact Info:\n\n[white]Email: example@domain.com\nGitHub: github.com/your-username")
+            details.SetText("[yellow]Contact Info:\n\n[white]Email: arushdubeystudent@gmail.com\nGitHub: github.com/ADIR360")
         case "Resume":
             details.SetText("[yellow]Resume:\n\n[white]Bachelor of Technology in Computer Science\nExperience in software development and cybersecurity.")
         }
